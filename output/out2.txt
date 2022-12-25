@@ -1,0 +1,9 @@
+Avg_tat: 13.4
+Avg_Wt: 8.8
+Avg_Rt: 7.2
+pname   arrival_time  burst_time1  io_time  burst_time2  completion_time  response_time  turnaround_time  waiting_time     state  
+Ce		0		3	0	0		3		0		3		0		0
+Cd		1		8	0	0		21		3		20		12		0
+Ia		2		6	0	0		23		7		21		15		0
+If		4		4	0	0		15		11		11		7		0
+Ib		5		2	0	0		17		15		12		10		0

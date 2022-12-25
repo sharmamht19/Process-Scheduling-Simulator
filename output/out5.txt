@@ -1,0 +1,9 @@
+Avg_tat: 9.8
+Avg_Wt: 5.2
+Avg_Rt: 7.6
+pname  priority   arrival_time  burst_time1  io_time  burst_time2  completion_time  response_time  turnaround_time  waiting_time     state  
+Ce	1		0		3	0	0		3		0		3		0		0
+Cd	2		1		8	0	0		23		15		22		14		0
+Ia	5		2		6	0	0		9		3		7		1		0
+If	3		4		4	0	0		15		11		11		7		0
+Ib	4		5		2	0	0		11		9		6		4		0
